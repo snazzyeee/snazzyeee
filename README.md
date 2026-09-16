@@ -9,7 +9,7 @@ Software engineer focused on **AI systems, trading automation, and full-stack de
 | System | Highlights | Core Tech |
 |---|---|---|
 | **[PNDLWR Engine](https://github.com/snazzyeee/Pndlwr-Engine)** | Local-first pipeline automating short-form video generation: moment detection, Whisper speech-to-text, Hinglish subtitle rendering, and generative cuts. | `Python` `Whisper` `FFmpeg` `Gemini` `MCP` |
-| **[RAMHOS](https://github.com/snazzyeee/Ramhos-3.x.x)** | Algorithmic trading engine for Indian index options featuring WebSocket market feeds, real-time option-chain analysis, and LLM-assisted validation. | `Python` `SmartAPI` `WebSockets` `Pandas` |
+| **[RAMHOS](https://github.com/snazzyeee/Ramhos-3.x.x)** | Algorithmic trading engine for Indian index options featuring WebSocket market feeds etc.| `Python` `SmartAPI` `WebSockets` `Pandas` |
 | **[BuildThatPC](https://github.com/snazzyeee/BuildThatPC)** | Full-stack e-commerce & PC configuration platform with compatibility checks, inventory tracking, auth, and admin tools. | `Next.js` `TypeScript` `PostgreSQL` `Supabase` |
 | **[Backtesting Suite](https://github.com/snazzyeee/Backtesting)** | Quantitative analysis framework for simulating options strategies against tick-level historical data. | `Python` `Pandas` `NumPy` |
 
