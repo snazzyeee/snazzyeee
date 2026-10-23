@@ -5,8 +5,8 @@ I build tools that connect data processing, APIs, and usable interfaces/ platfor
 
 ## Key Projects
 
-**[Ramhos Charts](https://github.com/snazzyeee/Ramhos-Charts)** — Browser-based market analysis platform, access at https://ramhos.com  
-Built a canvas charting engine, options chain analytics, multi-leg strategy payoff tools, and broker integrations for Indian markets. Market data is handled in browser workers with client-side encrypted credentials; the backend manages accounts and subscriptions.  
+**Ramhos Charts** — Browser-based charting and options analytics platform (**private repository; available at [ramhos.com](https://ramhos.com)**)  
+Built a custom canvas charting engine with multiple chart layouts, technical indicators, a live options chain, and multi-leg strategy analysis. Integrates Indian market broker APIs while keeping broker credentials encrypted in the user's browser. Includes accounts, saved workspaces, and subscription management.  
 `TypeScript` · `Canvas` · `Web Workers` · `Python` · `FastAPI`
 
 **[Spider-Man 2000 Rebuild](https://github.com/snazzyeee/spiderman-2000-rebuilt)** — Godot game recreation (work in progress)  
