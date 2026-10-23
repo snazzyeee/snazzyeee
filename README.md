@@ -5,7 +5,7 @@ I build tools that connect data processing, APIs, and usable interfaces/ platfor
 
 ## Key Projects
 
-**Ramhos Charts** — Browser-based charting and options analytics platform (**private repository; available at [ramhos.com](https://ramhos.com)**)  
+**[Ramhos Charts](https://ramhos.com)** — Browser-based charting and options analytics platform (**private repository; available at [ramhos.com](https://ramhos.com)**)  
 Built a custom canvas charting engine with multiple chart layouts, technical indicators, a live options chain, and multi-leg strategy analysis. Integrates Indian market broker APIs while keeping broker credentials encrypted in the user's browser. Includes accounts, saved workspaces, and subscription management.  
 `TypeScript` · `Canvas` · `Web Workers` · `Python` · `FastAPI`
 
