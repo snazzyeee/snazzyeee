@@ -2,7 +2,7 @@
 
 Software developer working with Python, TypeScript, backend systems, and applied AI. I build tools that connect data processing, APIs, and usable interfaces.
 
-## Projects
+## Key Projects
 
 **[PNDLWR Engine](https://github.com/snazzyeee/Pndlwr-Engine)** — Local-first video processing pipeline  
 Processes long-form video into short clips using speech recognition, moment scoring, word-level caption alignment, and FFmpeg rendering. Supports Hinglish transliteration, multiple transcription backends, resumable processing, and an MCP interface for orchestration.  
