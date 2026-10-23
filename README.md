@@ -12,7 +12,7 @@ Processes long-form video into short clips using speech recognition, moment scor
 Integrates with Angel One SmartAPI for market data and order execution. Includes a configurable signal pipeline, option-chain analytics, position management, and a validator that combines deterministic scoring with optional LLM analysis.  
 `Python` · `WebSockets` · `Pandas` · `SmartAPI` · `Tkinter`
 
-**[Ramhos Charts](https://github.com/snazzyeee/Ramhos-Charts)** — Browser-based market analysis platform  
+**[Ramhos Charts](https://github.com/snazzyeee/Ramhos-Charts)** — Browser-based market analysis platform, access at https://ramhos.com  
 Built a canvas charting engine, options chain analytics, multi-leg strategy payoff tools, and broker integrations for Indian markets. Market data is handled in browser workers with client-side encrypted credentials; the backend manages accounts and subscriptions.  
 `TypeScript` · `Canvas` · `Web Workers` · `Python` · `FastAPI`
 
