@@ -1,6 +1,7 @@
 # Sudhanshu Pendalwar
 
-Software developer working with Python, TypeScript, backend systems, and applied AI. I build tools that connect data processing, APIs, and usable interfaces.
+Software dev working with Python, TypeScript, backend systems, and applied AI. 
+I build tools that connect data processing, APIs, and usable interfaces/ platforms.
 
 ## Key Projects
 
