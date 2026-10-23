@@ -25,6 +25,10 @@ Full-stack web application with PC building and comparison flows, user accounts,
 Recreating gameplay systems from Spider-Man (2000) in Godot 4. Includes a playable rooftop mission slice, movement and traversal mechanics, asset-conversion tooling, and automated synthetic regression tests. Original game assets are kept out of the repository.  
 `Godot 4` · `GDScript` · `Python` · `CI`
 
+**[TEDxDYPDPU Attendance System](https://github.com/snazzyeee/tedx-attendance-system)** — Team attendance management web app  
+Built a role- and domain-scoped attendance workflow backed by Google Sheets, with server-enforced submission windows, session authentication, administrative overrides, and analytics.  
+`Next.js` · `TypeScript` · `Google Sheets API` · `JWT` 
+
 ## Technical experience
 
 - **Languages:** Python, TypeScript, JavaScript, C, C++
