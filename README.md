@@ -1,34 +1,28 @@
-# Hi, I'm Sudhanshu 👋
+# Sudhanshu Pendalwar
 
-Software engineer focused on **AI systems, trading automation, and full-stack development**. Currently building agentic pipelines and high-throughput backend services.
+Software developer working with Python, TypeScript, backend systems, and applied AI. I build tools that connect data processing, APIs, and usable interfaces.
 
----
+## Projects
 
-### 🚀 Selected Work
+**[PNDLWR Engine](https://github.com/snazzyeee/Pndlwr-Engine)** — Local-first video processing pipeline  
+Processes long-form video into short clips using speech recognition, moment scoring, word-level caption alignment, and FFmpeg rendering. Supports Hinglish transliteration, multiple transcription backends, resumable processing, and an MCP interface for orchestration.  
+`Python` · `FFmpeg` · `Whisper` · `Gemini` · `MCP`
 
-| System | Highlights | Core Tech |
-|---|---|---|
-| **[PNDLWR Engine](https://github.com/snazzyeee/Pndlwr-Engine)** | Local-first pipeline automating short-form video generation: moment detection, Whisper speech-to-text, Hinglish subtitle rendering, and generative cuts. | `Python` `Whisper` `FFmpeg` `Gemini` `MCP` |
-| **[RAMHOS](https://github.com/snazzyeee/Ramhos-3.x.x)** | Algorithmic trading engine for Indian index options featuring WebSocket market feeds etc.| `Python` `SmartAPI` `WebSockets` `Pandas` |
-| **[BuildThatPC](https://github.com/snazzyeee/BuildThatPC)** | Full-stack e-commerce & PC configuration platform with compatibility checks, inventory tracking, auth, and admin tools. | `Next.js` `TypeScript` `PostgreSQL` `Supabase` |
-| **[Backtesting Suite](https://github.com/snazzyeee/Backtesting)** | Quantitative analysis framework for simulating options strategies against tick-level historical data. | `Python` `Pandas` `NumPy` |
+**[RAMHOS](https://github.com/snazzyeee/Ramhos-3.x.x)** — Automated options trading application  
+Integrates with Angel One SmartAPI for market data and order execution. Includes a configurable signal pipeline, option-chain analytics, position management, and a validator that combines deterministic scoring with optional LLM analysis.  
+`Python` · `WebSockets` · `Pandas` · `SmartAPI` · `Tkinter`
 
----
+**[BuildThatPC](https://github.com/snazzyeee/BuildThatPC)** — PC parts and configuration platform  
+Full-stack web application with PC building and comparison flows, user accounts, shopping cart and checkout routes, and an admin interface. Uses Prisma for data access and includes unit and end-to-end test suites.  
+`Next.js` · `TypeScript` · `React` · `Prisma` · `PostgreSQL`
 
-### 🛠 Tools & Technologies
+## Technical experience
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,react,nextjs,nodejs,postgres,supabase,git,github" />
-</p>
+- **Languages:** Python, TypeScript, JavaScript, C, C++
+- **Web and data:** Next.js, React, Node.js, SQL, PostgreSQL, Prisma
+- **Systems and tooling:** REST APIs, WebSockets, Git, FFmpeg, pytest, Vitest, Playwright
+- **Applied AI:** Speech recognition, LLM APIs, multimodal processing, MCP
 
-*AI & Processing Pipelines:* Gemini API, Claude API, OpenAI, Whisper, FFmpeg, MCP
+## Contact
 
----
-
-### 📫 Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/sudhanshupendalwar"><b>LinkedIn</b></a> &nbsp;•&nbsp;
-  <a href="https://x.com/snazzyeeee"><b>X (Twitter)</b></a> &nbsp;•&nbsp;
-  <a href="mailto:sudhanshu.pendalwar@gmail.com"><b>Email</b></a>
-</p>
+[LinkedIn](https://linkedin.com/in/sudhanshupendalwar) · [Email](mailto:sudhanshu.pendalwar@gmail.com) · [X](https://x.com/snazzyeeee)
