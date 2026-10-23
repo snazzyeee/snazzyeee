@@ -20,7 +20,7 @@ Built a canvas charting engine, options chain analytics, multi-leg strategy payo
 Full-stack web application with PC building and comparison flows, user accounts, shopping cart and checkout routes, and an admin interface. Uses Prisma for data access and includes unit and end-to-end test suites.  
 `Next.js` · `TypeScript` · `React` · `Prisma` · `PostgreSQL`
 
-**[Spider-Man 2000 Rebuild](https://github.com/snazzyeee/spiderman-2000-revamp)** — Godot game recreation (work in progress)  
+**[Spider-Man 2000 Rebuild](https://github.com/snazzyeee/spiderman-2000-rebuilt)** — Godot game recreation (work in progress)  
 Recreating gameplay systems from Spider-Man (2000) in Godot 4. Includes a playable rooftop mission slice, movement and traversal mechanics, asset-conversion tooling, and automated synthetic regression tests. Original game assets are kept out of the repository.  
 `Godot 4` · `GDScript` · `Python` · `CI`
 
