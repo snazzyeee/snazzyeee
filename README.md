@@ -25,8 +25,8 @@ Built a role- and domain-scoped attendance workflow backed by Google Sheets, wit
 **[RAMHOS](https://github.com/snazzyeee/Ramhos-3.x.x)** — Options trading application with live market feeds, strategy signals, and position management.  
 `Python` · `SmartAPI` · `WebSockets`
 
-**[PNDLWR Engine](https://github.com/snazzyeee/Pndlwr-Engine)** — Local video-to-Shorts pipeline with transcription, clip selection, and subtitle rendering.  
-`Python` · `Whisper` · `FFmpeg`
+**[PNDLWR Engine](https://github.com/snazzyeee/Pndlwr-Engine)** — Local-first video editing and Shorts pipeline with configurable speech recognition, Roman Hinglish caption review, clip selection, and FFmpeg rendering. Also developing whole-match gameplay editing and a resumable AI-video workflow.  
+`Python` · `Gemma` · `Whisper` · `Gemini/Veo` · `FFmpeg` · `MCP`
 
 ## Technical experience
 
