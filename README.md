@@ -5,27 +5,27 @@ I build tools that connect data processing, APIs, and usable interfaces/ platfor
 
 ## Key Projects
 
-**[Ramhos Charts](https://ramhos.com)** — Browser-based charting and options analytics platform (**private repository; available at [ramhos.com](https://ramhos.com)**)  
+**[Ramhos Charts](https://ramhos.com)**: Browser-based charting and options analytics platform (**private repository; available at [ramhos.com](https://ramhos.com)**)  
 Built a custom canvas charting engine with multiple chart layouts, technical indicators, a live options chain, and multi-leg strategy analysis. Integrates Indian market broker APIs while keeping broker credentials encrypted in the user's browser. Includes accounts, saved workspaces, and subscription management.  
 `TypeScript` · `Canvas` · `Web Workers` · `Python` · `FastAPI`
 
-**[Spider-Man 2000 Rebuild](https://github.com/snazzyeee/spiderman-2000-rebuilt)** — Godot game recreation (work in progress)  
+**[Spider-Man 2000 Rebuild](https://github.com/snazzyeee/spiderman-2000-rebuilt)**: Godot game recreation (work in progress)  
 Recreating gameplay systems from Spider-Man (2000) in Godot 4. Includes a playable rooftop mission slice, movement and traversal mechanics, asset-conversion tooling, and automated synthetic regression tests. Original game assets are kept out of the repository.  
 `Godot 4` · `GDScript` · `Python` · `CI`
 
-**[TEDxDYPDPU Attendance System](https://github.com/snazzyeee/tedx-attendance-system)** — Team attendance management web app  
+**[TEDxDYPDPU Attendance System](https://github.com/snazzyeee/tedx-attendance-system)**: Team attendance management web app  
 Built a role- and domain-scoped attendance workflow backed by Google Sheets, with server-enforced submission windows, session authentication, administrative overrides, and analytics.  
 `Next.js` · `TypeScript` · `Google Sheets API` · `JWT`
 
 ### Other projects (private repositories)
 
-**[BuildThatPC](https://github.com/snazzyeee/BuildThatPC)** — PC configuration and e-commerce app with product comparison, accounts, and checkout.  
+**[BuildThatPC](https://github.com/snazzyeee/BuildThatPC)**: PC configuration and e-commerce app with product comparison, accounts, and checkout.  
 `Next.js` · `TypeScript` · `Prisma`
 
-**[RAMHOS](https://github.com/snazzyeee/Ramhos-3.x.x)** — Options trading application with live market feeds, strategy signals, and position management.  
+**[RAMHOS](https://github.com/snazzyeee/Ramhos-3.x.x)**: Options trading application with live market feeds, strategy signals, and position management.  
 `Python` · `SmartAPI` · `WebSockets`
 
-**[PNDLWR Engine](https://github.com/snazzyeee/Pndlwr-Engine)** — Local-first video editing and Shorts pipeline with configurable speech recognition, Roman Hinglish caption review, clip selection, and FFmpeg rendering. Also developing whole-match gameplay editing and a resumable AI-video workflow.  
+**[PNDLWR Engine](https://github.com/snazzyeee/Pndlwr-Engine)**: Local-first video editing and Shorts pipeline with configurable speech recognition, Roman Hinglish caption review, clip selection, and FFmpeg rendering. Also developing whole-match gameplay editing and a resumable AI-video workflow.  
 `Python` · `Gemma` · `Whisper` · `Gemini/Veo` · `FFmpeg` · `MCP`
 
 ## Technical experience
